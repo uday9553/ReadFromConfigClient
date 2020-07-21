@@ -1,0 +1,1 @@
+to refresh values we need to hit post request to http://localhost:8081/actuator/refresh
